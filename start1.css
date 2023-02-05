@@ -1,0 +1,51 @@
+
+@media only screen and (min-width: 768px) {
+[class*="col="]      
+}
+
+
+
+.col-1 {width: 9.09%;}
+.col-2 {width: 18.18%;}
+.col-3 {width: 27.27%;}
+.col-4 {width: 36.36%;}
+.col-5 {width: 45.45%;}
+.col-6 {width: 54.54%;}
+.col-7 {width: 63.63%;}
+.col-8 {width: 72.72%;}
+.col-9 {width: 81.81%;}
+.col-10 {width: 90.9%;}
+.col-11 {width: 100%;}
+
+    .header {
+          background-color: olive;
+          color: white;
+          padding: 15px;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          text-align: center;
+          font-size: x-large;
+    }
+
+    .col-2 {
+          background-color: bisque;
+          color:black;
+          height: 800px;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    .col-8 {
+
+          background-color: green;
+          color: black;
+          height: 800px;
+          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          float: right;
+    }
+
+   .footer{
+          text-align: center;
+    }
+
+    .welkom {
+          text-align: center;
+    }
